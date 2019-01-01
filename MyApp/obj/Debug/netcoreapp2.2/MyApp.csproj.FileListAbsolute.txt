@@ -1,0 +1,14 @@
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\bin\Debug\netcoreapp2.2\MyApp.deps.json
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\bin\Debug\netcoreapp2.2\MyApp.runtimeconfig.json
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\bin\Debug\netcoreapp2.2\MyApp.runtimeconfig.dev.json
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\bin\Debug\netcoreapp2.2\MyApp.dll
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\obj\Debug\netcoreapp2.2\MyApp.csprojAssemblyReference.cache
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\obj\Debug\netcoreapp2.2\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\obj\Debug\netcoreapp2.2\MyApp.RazorAssemblyInfo.cache
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\obj\Debug\netcoreapp2.2\MyApp.RazorAssemblyInfo.cs
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\obj\Debug\netcoreapp2.2\MyApp.AssemblyInfoInputs.cache
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\obj\Debug\netcoreapp2.2\MyApp.AssemblyInfo.cs
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\obj\Debug\netcoreapp2.2\MyApp.RazorTargetAssemblyInfo.cache
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\bin\Debug\netcoreapp2.2\MyApp.pdb
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\obj\Debug\netcoreapp2.2\MyApp.dll
+C:\Users\Dhebeeluv\Documents\VS Code Project\MyApp\obj\Debug\netcoreapp2.2\MyApp.pdb
